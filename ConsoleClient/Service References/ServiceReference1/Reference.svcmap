@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="eed9b01d-baf7-4087-955d-3ef98f898551" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/ClusterizationService/Service1/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="5e56d1b7-0474-4452-925c-b652ab081411" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ClusterizationService/Service1/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="e3760a1c-3cac-44f5-89ab-ac60c5e241a2" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ClusterizationService/Service1/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="b59b03e3-22c5-4d3e-8daa-c08c2a30f624" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ClusterizationService/Service1/mex" />
+    <MetadataFile FileName="ClusterizationService.xsd" MetadataType="Schema" ID="439ed65c-b74b-4b84-9b5e-4ba24c922e9e" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ClusterizationService/Service1/mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="02d39810-d443-44af-96cd-386be4257d64" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ClusterizationService/Service1/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
